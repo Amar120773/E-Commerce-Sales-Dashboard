@@ -1,4 +1,4 @@
-# E-Commerce Sales Dashboard 📊
+# E-Commerce Sales Dashboard 
 
 ## Overview
 This project features an interactive E-Commerce Sales Dashboard designed to monitor and analyze high-level business Key Performance Indicators (KPIs). The dashboard transforms raw sales data into actionable business insights, tracking total sales volume, overall profitability, and average order value (AOV) to help stakeholders understand regional performance and consumer purchasing behaviors.
